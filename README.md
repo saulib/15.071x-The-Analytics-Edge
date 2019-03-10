@@ -1,4 +1,4 @@
-#MIT 15.071x-The-Analytics-Edge
+#MIT 15.071x-The-Analytics-Edge#
 I am using this repository as a means of organizing my work
 as I progress through the course 15.071x The Analytics Edge
 offered through edx.org, found at the following link
